@@ -1,0 +1,15 @@
+D:\Desarrollo\Prueba Teleperformance\Services\SocialTPServices\SocialTPServices\bin\Debug\netcoreapp2.1\SocialTPServices.deps.json
+D:\Desarrollo\Prueba Teleperformance\Services\SocialTPServices\SocialTPServices\bin\Debug\netcoreapp2.1\SocialTPServices.runtimeconfig.json
+D:\Desarrollo\Prueba Teleperformance\Services\SocialTPServices\SocialTPServices\bin\Debug\netcoreapp2.1\SocialTPServices.runtimeconfig.dev.json
+D:\Desarrollo\Prueba Teleperformance\Services\SocialTPServices\SocialTPServices\bin\Debug\netcoreapp2.1\SocialTPServices.dll
+D:\Desarrollo\Prueba Teleperformance\Services\SocialTPServices\SocialTPServices\bin\Debug\netcoreapp2.1\SocialTPServices.pdb
+D:\Desarrollo\Prueba Teleperformance\Services\SocialTPServices\SocialTPServices\obj\Debug\netcoreapp2.1\SocialTPServices.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Prueba Teleperformance\Services\SocialTPServices\SocialTPServices\obj\Debug\netcoreapp2.1\SocialTPServices.RazorAssemblyInfo.cache
+D:\Desarrollo\Prueba Teleperformance\Services\SocialTPServices\SocialTPServices\obj\Debug\netcoreapp2.1\SocialTPServices.RazorAssemblyInfo.cs
+D:\Desarrollo\Prueba Teleperformance\Services\SocialTPServices\SocialTPServices\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Desarrollo\Prueba Teleperformance\Services\SocialTPServices\SocialTPServices\obj\Debug\netcoreapp2.1\SocialTPServices.AssemblyInfoInputs.cache
+D:\Desarrollo\Prueba Teleperformance\Services\SocialTPServices\SocialTPServices\obj\Debug\netcoreapp2.1\SocialTPServices.AssemblyInfo.cs
+D:\Desarrollo\Prueba Teleperformance\Services\SocialTPServices\SocialTPServices\obj\Debug\netcoreapp2.1\SocialTPServices.RazorTargetAssemblyInfo.cache
+D:\Desarrollo\Prueba Teleperformance\Services\SocialTPServices\SocialTPServices\obj\Debug\netcoreapp2.1\SocialTPServices.dll
+D:\Desarrollo\Prueba Teleperformance\Services\SocialTPServices\SocialTPServices\obj\Debug\netcoreapp2.1\SocialTPServices.pdb
+D:\Desarrollo\Prueba Teleperformance\Services\SocialTPServices\SocialTPServices\obj\Debug\netcoreapp2.1\SocialTPServices.csprojAssemblyReference.cache
